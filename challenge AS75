@@ -1,0 +1,2 @@
+n = ("type in one denary number: ")
+print(f"In binary:{n:b}")
